@@ -24,7 +24,7 @@ math : calculation distance from one point to another point
 RUN
 ============
 
-#. run file ````::
+#. run file python 3+ ::
 
     python3 geo.py
 
