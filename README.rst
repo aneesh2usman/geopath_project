@@ -32,7 +32,7 @@ Install requirement.txt
 RUN Continuous Path Finder
 ============
 
-#. run file ````::
+#. run file python 3+ ::
 
     python3 geo.py
 
